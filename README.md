@@ -1,39 +1,62 @@
-# 👁️ EyeCare Daily — Application HTML
+# 👁️ Gym Oculaire — Programme Orthoptique
 
-Application web interactive de rééducation oculaire à utiliser à domicile, sans installation requise.
+> Application web de rééducation visuelle guidée, basée sur des protocoles orthoptiques corrigés.
 
-## Utilisation
-
-Ouvrez simplement le fichier `reeducation-yeux.html` dans n'importe quel navigateur moderne (Chrome, Firefox, Safari, Edge). Aucune connexion internet nécessaire.
-
-## Exercices inclus
-
-| Exercice | Durée | Objectif |
-|---|---|---|
-| 🤲 Palming | 2 min | Relaxation profonde, réduction de la fatigue |
-| 👁️ Suivi de cible | 3 min | Mobilité oculaire (H / V / diagonal) |
-| 🎯 Règle 20-20-20 | 20 sec | Pause active devant écran |
-| ∞ Figure en 8 | 2 min | Assouplissement musculaire |
-| ✨ Clignement actif | 1 min | Réhydratation de la cornée |
-| 🔭 Proche / Loin | 3 min | Flexibilité d'accommodation |
-
-## Programme recommandé
-
-- **Matin** : Palming + Figure en 8 (5 min)
-- **En journée** : Règle 20-20-20 toutes les 20 minutes devant écran
-- **Soir** : Suivi de cible + Clignement + Proche/Loin (7 min)
-
-## Conseils d'utilisation
-
-- Pratiquez dans une pièce bien éclairée
-- Ne forcez jamais — arrêtez en cas de gêne ou douleur
-- Maintenez une distance de 50–70 cm avec votre écran au quotidien
-- Les exercices sont plus efficaces pratiqués régulièrement (quotidien > intensif ponctuel)
-
-## Avertissement
-
-Ces exercices sont à titre de confort général. Ils ne remplacent pas un suivi médical. En cas de troubles visuels, consultez un **ophtalmologue** ou un **orthoptiste**.
+![Version](https://img.shields.io/badge/version-2.0-c8602a) ![Licence](https://img.shields.io/badge/licence-MIT-2a7c6f) ![No deps](https://img.shields.io/badge/dépendances-aucune-gold)
 
 ---
 
-*Compatibilité : tout navigateur moderne. Aucune dépendance externe.*
+## 🚀 Demo
+
+Ouvre simplement `gym-oculaire-v2.html` dans n'importe quel navigateur moderne. Aucun serveur, aucune installation.
+
+---
+
+## ✨ Fonctionnalités
+
+- **9 exercices guidés** avec animations et timers intégrés
+- **Notes cliniques** par exercice expliquant le protocole
+- **Contre-indications** affichées dès l'ouverture
+- **Progression de séance** sauvegardée en mémoire
+- 100% vanilla HTML/CSS/JS — zéro dépendance
+
+---
+
+## 📋 Exercices inclus
+
+| # | Exercice | Niveau | Durée |
+|---|----------|--------|-------|
+| 1 | Suivi horizontal | Fondamental | 60s |
+| 2 | Suivi vertical | Fondamental | 60s |
+| 3 | Suivi circulaire | Intermédiaire | 90s |
+| 4 | Convergence (crayon) | Thérapeutique | 120s |
+| 5 | Clignement thérapeutique | Fondamental | 120s |
+| 6 | Tracé en 8 | Coordination | 90s |
+| 7 | Accommodation proche-loin | Accommodation | 90s |
+| 8 | Règle des 20-20-20 | Prévention | 20s |
+| 9 | Palming | Récupération | 120s |
+
+---
+
+## ⚠️ Contre-indications
+
+Ne pas utiliser sans avis médical préalable en cas de :
+
+- Glaucome actif
+- Décollement de rétine
+- Strabisme non traité
+- Migraine ophtalmique
+- Chirurgie oculaire récente
+- Nystagmus
+
+---
+
+## 🏥 Disclaimer
+
+Ces exercices sont à visée **informative et complémentaire**. Ils ne remplacent pas une prescription orthoptique personnalisée. En cas de douleur, arrêtez immédiatement et consultez un professionnel de santé.
+
+---
+
+## 📄 Licence
+
+MIT
