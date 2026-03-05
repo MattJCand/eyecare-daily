@@ -2,13 +2,13 @@
 
 > Application web de rééducation visuelle guidée, basée sur des protocoles orthoptiques.
 
-![Version](https://img.shields.io/badge/version-2.0-c8602a) ![Licence](https://img.shields.io/badge/licence-MIT-2a7c6f) ![No deps](https://img.shields.io/badge/dépendances-aucune-gold)
+![Version](https://img.shields.io/badge/version-1.0-c8602a) ![Licence](https://img.shields.io/badge/licence-MIT-2a7c6f) ![No deps](https://img.shields.io/badge/dépendances-aucune-gold)
 
 ---
 
 ## 🚀 Demo
 
-Ouvre simplement `gym-oculaire-v2.html` dans n'importe quel navigateur moderne. Aucun serveur, aucune installation.
+Ouvre simplement `gym-oculaire.html` dans n'importe quel navigateur moderne. Aucun serveur, aucune installation.
 
 ---
 
