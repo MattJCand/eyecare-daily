@@ -1,6 +1,6 @@
 # 👁️ Gym Oculaire — Programme Orthoptique
 
-> Application web de rééducation visuelle guidée, basée sur des protocoles orthoptiques corrigés.
+> Application web de rééducation visuelle guidée, basée sur des protocoles orthoptiques.
 
 ![Version](https://img.shields.io/badge/version-2.0-c8602a) ![Licence](https://img.shields.io/badge/licence-MIT-2a7c6f) ![No deps](https://img.shields.io/badge/dépendances-aucune-gold)
 
